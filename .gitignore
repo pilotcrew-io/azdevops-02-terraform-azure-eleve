@@ -1,0 +1,16 @@
+target/
+*.class
+*.log
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+terraform.tfvars
+*.auto.tfvars
+crash.log
+preuves-privees/
